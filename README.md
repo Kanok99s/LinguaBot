@@ -11,7 +11,6 @@ It's a fast, voice-based language assistant built with pure HTML, CSS, and JavaS
 - 🔊 Text-to-Speech in selected voices
 - 🌍 Language translation (Google Translate API compatible)
 - 🗣️ Hear both the original and translated version
-- 💡 Clean and minimal UI
 - ☁️ Deployed via Vercel 
 
 ---
