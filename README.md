@@ -26,7 +26,4 @@ vercel dev
 
 
 
----
 
-## 🎥 Short Demo:
-[Watch Demo Video](https://youtube.com/shorts/GfpKeigPm_w)
